@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 line5
+=======
+line a
+line b
+line c
+line d
+END
+END
+ls
+>>>>>>> monkey
